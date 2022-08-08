@@ -6,11 +6,11 @@ const Feed: NextPage = () => {
   return (
     <Styled.Page>
       <Head>
-        <title>SOPTstagram</title>
-        <meta name="description" content="SOPTstagram" />
+        <title>Scam Scan</title>
+        <meta name="description" content="Scan Scab" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      메인입니다
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
     </Styled.Page>
   );
 };
