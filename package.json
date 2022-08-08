@@ -16,6 +16,7 @@
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@metamask/providers": "^9.1.0",
     "daisyui": "^2.22.0",
     "emotion-reset": "^3.0.1",
     "next": "12.1.6",
