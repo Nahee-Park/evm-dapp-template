@@ -13,6 +13,7 @@
     ]
   ],
   "plugins": [
+    "inline-react-svg",
     [
       "module-resolver",
       {
